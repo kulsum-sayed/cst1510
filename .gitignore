@@ -1,0 +1,13 @@
+﻿# OS metadata
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Archive files
+*.zip
