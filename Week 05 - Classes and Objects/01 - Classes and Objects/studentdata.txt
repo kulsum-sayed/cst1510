@@ -1,0 +1,3 @@
+rama , it , 90
+mari,ai,10
+mariyam,ds,100
